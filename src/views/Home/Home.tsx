@@ -1,7 +1,8 @@
-import React from 'react'
-
 export const Home = () => {
-  return (
-    <div>Home</div>
-  )
-}
+  return <div className="Home">
+    <div className="Home-header">
+      <div className="Logo">Oggie</div>
+      <div className="Greating">Welcome Back, Bryan</div>
+    </div>
+  </div>;
+};

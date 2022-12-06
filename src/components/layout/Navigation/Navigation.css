@@ -1,0 +1,8 @@
+.Navigation {
+  display: flex;
+}
+
+.Navigation--sm {
+  grid-row: 2;
+}
+
